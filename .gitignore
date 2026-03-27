@@ -1,0 +1,10 @@
+.DS_Store
+.agent/settings/*.json
+.agent/settings/*.yaml
+.agent/settings/*.yml
+# Add more common ignores here
+node_modules/
+dist/
+build/
+.env
+*.bkp
