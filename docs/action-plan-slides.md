@@ -34,347 +34,347 @@ style: |
 
 <!-- _class: cover -->
 
-# AI Execution Squad Platform
-## Action Plan
+# Nền Tảng AI Execution Squad
+## Kế Hoạch Hành Động
 
-**Based on BMAD Brainstorming + Adversarial Review**
-March 2026
+**Dựa trên kết quả BMAD Brainstorming + Adversarial Review**
+Tháng 3 năm 2026
 
 ---
 
-## What This Deck Is
+## Bộ slide này là gì
 
-This action plan is derived from two BMAD outputs:
+Kế hoạch hành động này được rút ra từ hai kết quả BMAD:
 
-1. **Brainstorming session** `2026-03-26` — Lean Startup execution plan covering problem discovery, product validation, PMF, and scale
-2. **Adversarial review** `2026-03-28` — Critical stress-test of the execution plan, surfacing blockers and high-risk assumptions
+1. **Phiên brainstorming** `2026-03-26` — Kế hoạch thực thi Lean Startup bao gồm khám phá vấn đề, xác thực sản phẩm, PMF và mở rộng quy mô
+2. **Phiên adversarial review** `2026-03-28` — Kiểm tra phản biện toàn diện kế hoạch thực thi, làm rõ các điểm nghẽn và giả định rủi ro cao
 
-> **Purpose:** Translate those outputs into a prioritised sequence of actions — so nothing important falls through the gap between planning and execution.
+> **Mục tiêu:** Chuyển hóa các kết quả đó thành một chuỗi hành động được ưu tiên — để không có việc quan trọng nào bị bỏ sót giữa lúc lập kế hoạch và thực thi.
 
 ---
 
 <!-- _class: section-title -->
 
-## 🗺 Platform Vision
+## 🗺 Tầm Nhìn Nền Tảng
 
 ---
 
-## The Big Idea
+## Ý Tưởng Cốt Lõi
 
-**AI Execution Squads** — small teams of human AI operators sharing a domain `SKILLS.md`, delivering expert-quality output through built-in peer review.
+**AI Execution Squads** — các nhóm nhỏ gồm những người vận hành AI chia sẻ tệp `SKILLS.md` theo lĩnh vực, cung cấp đầu ra chất lượng chuyên gia thông qua quy trình peer review tích hợp sẵn.
 
-| Layer | What it does |
+| Tầng | Chức năng |
 |---|---|
-| **SKILLS.md** | Encodes expert AI-direction reasoning so technique outlives any session |
-| **Squad model** | Peer review ensures quality no single operator can guarantee alone |
-| **Human veil** | Clients pay agency prices for human-backed delivery; AI is internal infra |
-| **Iteration flywheel** | SKILLS.md used on 500 real tasks is categorically better than one used on 5 |
+| **SKILLS.md** | Mã hóa lý luận chỉ đạo AI của chuyên gia, giúp kỹ thuật tồn tại lâu hơn bất kỳ phiên làm việc nào |
+| **Mô hình Squad** | Peer review đảm bảo chất lượng mà không một người vận hành đơn lẻ nào có thể đảm bảo được |
+| **Lớp vỏ con người** | Khách hàng trả giá agency cho sản phẩm có người đứng sau; AI là hạ tầng nội bộ |
+| **Bánh đà lặp lại** | SKILLS.md được dùng trên 500 tác vụ thực tế tốt hơn về bản chất so với dùng trên 5 tác vụ |
 
-**The window:** Human-centric internet infrastructure (auth, crawling, sessions) takes decades to redesign for AI — 3–7 years of structural advantage.
+**Cửa sổ cơ hội:** Hạ tầng internet lấy con người làm trung tâm (xác thực, crawling, phiên làm việc) mất nhiều thập kỷ để thiết kế lại cho AI — lợi thế cấu trúc kéo dài 3–7 năm.
 
 ---
 
-## Six-Phase Execution Roadmap
+## Lộ Trình Thực Thi 6 Giai Đoạn
 
-| Phase | Timeline | Goal |
+| Giai đoạn | Thời gian | Mục tiêu |
 |---|---|---|
-| **Gate 0** | Pre-launch ✅ | Warm government contact — skip cold outreach |
-| **Phase 1** Concierge MVP | Weeks 1–6 | Validate squad delivery on real government documents |
-| **Phase 2** Build SKILLS.md | Weeks 4–16 | Reach ≥90% accuracy, 5× throughput vs. manual |
-| **Phase 3** Anchor Contract | Weeks 10–20 | Secure a recurring or exclusive government contract |
-| **Phase 4** Expand in Gov | Months 5–9 | New document types, additional departments |
-| **Phase 5** Commercial | Months 12–24 | Content marketing for startups/SMEs |
-| **Phase 6** Scale | Month 18+ | New squads, geographies, platform marketplace |
+| **Cổng 0** | Trước khi ra mắt ✅ | Đầu mối chính phủ đã sẵn sàng — bỏ qua tiếp cận lạnh |
+| **Giai đoạn 1** Concierge MVP | Tuần 1–6 | Xác thực khả năng bàn giao của squad trên tài liệu chính phủ thực tế |
+| **Giai đoạn 2** Xây SKILLS.md | Tuần 4–16 | Đạt ≥90% độ chính xác, thông lượng cao hơn 5× so với thủ công |
+| **Giai đoạn 3** Hợp đồng neo | Tuần 10–20 | Ký hợp đồng định kỳ hoặc độc quyền với chính phủ |
+| **Giai đoạn 4** Mở rộng trong Chính phủ | Tháng 5–9 | Thêm loại tài liệu mới, thêm phòng ban |
+| **Giai đoạn 5** Thương mại | Tháng 12–24 | Marketing nội dung cho startup/SME |
+| **Giai đoạn 6** Mở rộng quy mô | Tháng 18+ | Thêm squad mới, địa lý mới, marketplace nền tảng |
 
-> **Beachhead:** Government document digitisation & translation — binary quality check, massive backlog, zero creativity required.
-
----
-
-<!-- _class: section-title -->
-
-## 🔴 P0 — Blockers
-### Must resolve before anything else starts
-
----
-
-## 🔴 P0-1 — Verify Budget Authority
-
-**Risk:** A warm promise ≠ procurement capacity. Gate 0 is pre-validated on access, not on money.
-
-**Action:**
-In your next meeting, ask directly:
-
-> *"Do you have a budget line for outsourcing digitisation/translation, or would this require a new approval process? Who signs the contract?"*
-
-**Success signal:**
-Contact names a budget, a department, or a procurement officer you can speak to.
-
-**If blocked:**
-Find the actual procurement decision-maker through the contact — or treat Gate 0 as unvalidated and run cold outreach in parallel.
-
----
-
-## 🔴 P0-2 — Pick One Document Type
-
-**Risk:** Paper-to-digital and translation require different SKILLS.md, different skills, different QA — trying both fragments everything.
-
-**Action:**
-Ask your contact:
-
-> *"Which document type has the highest backlog or the most urgent need right now?"*
-
-Pick that one. Start there **only**.
-
-**Success signal:**
-You have a specific document type selected **before** the first squad meeting — e.g., *"handwritten forms to digital text"* or *"Vietnamese-to-English policy documents."*
+> **Điểm tấn công:** Số hóa và dịch tài liệu chính phủ — kiểm tra chất lượng nhị phân, tồn đọng khổng lồ, không yêu cầu sáng tạo.
 
 ---
 
 <!-- _class: section-title -->
 
-## 🟠 P1 — Before Concierge MVP
-### Weeks 1–3
+## 🔴 P0 — Điểm Nghẽn
+### Phải giải quyết trước khi bắt đầu bất cứ điều gì
 
 ---
 
-## 🟠 P1-1 — Define Your Price
+## 🔴 P0-1 — Xác Minh Thẩm Quyền Ngân Sách
 
-**Risk:** The 1-page pitch you bring to the government meeting needs a number. "We'll quote later" is not a pitch.
+**Rủi ro:** Một lời hứa thiện chí ≠ năng lực mua sắm. Cổng 0 đã được xác thực về khả năng tiếp cận, chưa xác thực về tiền.
 
-**Action:**
-Research current market rates — what do digitisation/translation vendors charge per page, per document, or per hour in Vietnam?
+**Hành động:**
+Trong buổi họp tiếp theo, hỏi thẳng:
 
-Set your price as a % below market to win, with a floor that covers costs.
+> *"Anh/chị có dòng ngân sách dành cho việc thuê ngoài số hóa/dịch thuật không, hay điều này cần một quy trình phê duyệt mới? Ai là người ký hợp đồng?"*
 
-**Output:**
-A simple pricing table — e.g., cost per page for digitisation, cost per word for translation.
+**Tín hiệu thành công:**
+Đầu mối nêu ra được một ngân sách, một phòng ban, hoặc một cán bộ mua sắm mà bạn có thể liên hệ.
+
+**Nếu bị chặn:**
+Tìm người ra quyết định mua sắm thực sự thông qua đầu mối đó — hoặc coi Cổng 0 là chưa xác thực và song song tiến hành tiếp cận lạnh.
 
 ---
 
-## 🟠 P1-2 — Build a Financial Model
+## 🔴 P0-2 — Chọn Một Loại Tài Liệu
 
-**Risk:** Without knowing your runway, you cannot make rational decisions about pace or pivots.
+**Rủi ro:** Tài liệu giấy sang số và dịch thuật đòi hỏi SKILLS.md khác nhau, kỹ năng khác nhau, QA khác nhau — làm cả hai cùng lúc sẽ phân tán tất cả.
 
-**Action:**
-Build a spreadsheet with three columns:
+**Hành động:**
+Hỏi đầu mối:
 
-| Column | What it answers |
+> *"Loại tài liệu nào có tồn đọng lớn nhất hoặc nhu cầu cấp bách nhất hiện tại?"*
+
+Chọn loại đó. Bắt đầu **chỉ** ở đó.
+
+**Tín hiệu thành công:**
+Bạn đã chọn được một loại tài liệu cụ thể **trước** buổi họp squad đầu tiên — ví dụ: *"mẫu viết tay sang văn bản số"* hoặc *"tài liệu chính sách tiếng Việt sang tiếng Anh."*
+
+---
+
+<!-- _class: section-title -->
+
+## 🟠 P1 — Trước Khi Ra Mắt Concierge MVP
+### Tuần 1–3
+
+---
+
+## 🟠 P1-1 — Xác Định Giá
+
+**Rủi ro:** Bản pitch 1 trang bạn mang đến cuộc họp chính phủ cần có con số cụ thể. "Chúng tôi sẽ báo giá sau" không phải là một pitch.
+
+**Hành động:**
+Nghiên cứu giá thị trường hiện tại — các nhà cung cấp số hóa/dịch thuật tính phí bao nhiêu mỗi trang, mỗi tài liệu, hoặc mỗi giờ tại Việt Nam?
+
+Đặt giá của bạn thấp hơn thị trường một tỷ lệ % để thắng, với sàn đủ bù chi phí.
+
+**Đầu ra:**
+Một bảng giá đơn giản — ví dụ: chi phí mỗi trang cho số hóa, chi phí mỗi từ cho dịch thuật.
+
+---
+
+## 🟠 P1-2 — Xây Dựng Mô Hình Tài Chính
+
+**Rủi ro:** Không biết thời gian duy trì được, bạn không thể đưa ra quyết định hợp lý về tốc độ hoặc thời điểm pivot.
+
+**Hành động:**
+Xây dựng bảng tính với ba cột:
+
+| Cột | Câu hỏi cần trả lời |
 |---|---|
-| Weekly costs (time + APIs + tooling) | What does each week cost me? |
-| Break-even contract size | How large must the first contract be? |
-| Months of runway | How long can I run before I must have revenue? |
+| Chi phí hàng tuần (thời gian + API + công cụ) | Mỗi tuần tốn bao nhiêu? |
+| Quy mô hợp đồng hòa vốn | Hợp đồng đầu tiên phải lớn bao nhiêu? |
+| Số tháng duy trì được | Duy trì được bao lâu trước khi cần doanh thu? |
 
-**Success signal:**
-You can answer *"how long can I run this before I need revenue?"* without hesitation.
-
----
-
-## 🟠 P1-3 — Write a Squad Recruitment Profile
-
-**Risk:** "2–3 people" is not a hiring spec. Vague criteria produce vague squads.
-
-**Action:**
-Define minimum qualifications:
-- AI tool literacy — which tools specifically?
-- Language ability — Vietnamese + English?
-- Availability — hours/week?
-- Willingness to do repetitive work within a structured process
-
-**Output:**
-A 1-paragraph description you can send to candidates this week.
+**Tín hiệu thành công:**
+Bạn có thể trả lời *"tôi duy trì được bao lâu trước khi cần doanh thu?"* mà không do dự.
 
 ---
 
-## 🟠 P1-4 — Create a Quality Rubric
+## 🟠 P1-3 — Viết Hồ Sơ Tuyển Dụng Squad
 
-**Risk:** Peer review without a standard catches nothing. "Someone checked it" is not quality assurance.
+**Rủi ro:** "2–3 người" không phải là tiêu chí tuyển dụng. Tiêu chí mơ hồ tạo ra squad mơ hồ.
 
-**Action:**
-Define what *"correct"* looks like for your chosen document type.
+**Hành động:**
+Xác định các tiêu chuẩn tối thiểu:
+- Thành thạo công cụ AI — cụ thể là công cụ nào?
+- Năng lực ngôn ngữ — tiếng Việt + tiếng Anh?
+- Thời gian rảnh — số giờ/tuần?
+- Sẵn sàng làm công việc lặp lại trong một quy trình có cấu trúc
 
-Example for digitisation:
-- Character accuracy %
-- Formatting match to original
-- Handling of illegible text (flag? substitute? leave blank?)
-
-**Output:**
-A 1-page QA checklist that any squad member can use without explanation.
-
----
-
-## 🟠 P1-5 — Define Accuracy Measurement
-
-**Risk:** "≥90% accuracy" is a meaningless target without a measurement instrument.
-
-**Action:**
-Decide how accuracy is measured:
-- Spot-check by human reviewer against original?
-- Character-level diff tool?
-- Client rejection count?
-
-Document: **who** measures, **how**, and **how often**.
-
-**Output:**
-A documented measurement protocol (even 1 paragraph) before the Concierge MVP batch starts.
+**Đầu ra:**
+Một đoạn văn mô tả bạn có thể gửi cho ứng viên ngay tuần này.
 
 ---
 
-## 🟠 P1-6 — Check AI Disclosure Requirements
+## 🟠 P1-4 — Tạo Tiêu Chí Chất Lượng
 
-**Risk:** "Human veil" pricing is strategically smart but may constitute misrepresentation under Vietnamese government procurement rules.
+**Rủi ro:** Peer review không có tiêu chuẩn không bắt được lỗi gì. "Có người kiểm tra rồi" không phải là đảm bảo chất lượng.
 
-**Action:**
-Research (or ask a legally-informed contact) whether government procurement contracts in Vietnam **require disclosure of AI tools** used in service delivery.
+**Hành động:**
+Xác định thế nào là *"đúng"* đối với loại tài liệu bạn chọn.
 
-**Success signal:**
-You know:
-1. Whether you must disclose AI involvement
-2. If yes — how to frame it without undermining your pricing
+Ví dụ cho số hóa:
+- Tỷ lệ chính xác ký tự %
+- Khớp định dạng với bản gốc
+- Xử lý văn bản không đọc được (đánh dấu? thay thế? để trống?)
+
+**Đầu ra:**
+Danh sách kiểm tra QA 1 trang mà bất kỳ thành viên squad nào cũng có thể sử dụng mà không cần giải thích thêm.
+
+---
+
+## 🟠 P1-5 — Xác Định Phương Pháp Đo Độ Chính Xác
+
+**Rủi ro:** "Độ chính xác ≥90%" là mục tiêu vô nghĩa nếu không có công cụ đo lường.
+
+**Hành động:**
+Quyết định cách đo độ chính xác:
+- Kiểm tra mẫu bởi người đánh giá so với bản gốc?
+- Công cụ so sánh ký tự?
+- Số lần khách hàng từ chối?
+
+Ghi lại: **ai** đo, **như thế nào**, và **bao lâu một lần**.
+
+**Đầu ra:**
+Một quy trình đo lường được ghi lại (dù chỉ 1 đoạn) trước khi batch Concierge MVP bắt đầu.
+
+---
+
+## 🟠 P1-6 — Kiểm Tra Yêu Cầu Công Khai AI
+
+**Rủi ro:** Chiến lược "lớp vỏ con người" thông minh về mặt chiến lược nhưng có thể cấu thành sai lệch thông tin theo quy định mua sắm công của chính phủ Việt Nam.
+
+**Hành động:**
+Nghiên cứu (hoặc hỏi một đầu mối am hiểu pháp lý) liệu hợp đồng mua sắm công tại Việt Nam có **yêu cầu công khai việc sử dụng công cụ AI** trong cung cấp dịch vụ hay không.
+
+**Tín hiệu thành công:**
+Bạn biết:
+1. Liệu bạn có phải công khai sự tham gia của AI không
+2. Nếu có — cách trình bày mà không làm giảm giá trị định giá của bạn
 
 ---
 
 <!-- _class: section-title -->
 
-## 🟡 P2 — Before Anchor Contract Pitch
-### Weeks 6–12
+## 🟡 P2 — Trước Khi Chào Hàng Hợp Đồng Neo
+### Tuần 6–12
 
 ---
 
-## 🟡 P2-1 — Add Contingency Logic
+## 🟡 P2-1 — Bổ Sung Logic Dự Phòng
 
-**Risk:** The execution plan assumes best-case at every phase. Government procurement in Vietnam can take **12–18 months**.
+**Rủi ro:** Kế hoạch thực thi giả định kịch bản tốt nhất ở mọi giai đoạn. Mua sắm công tại Việt Nam có thể mất **12–18 tháng**.
 
-**Action:**
-For each phase gate, add three columns:
+**Hành động:**
+Với mỗi cổng giai đoạn, bổ sung ba cột:
 
-| Column | Content |
+| Cột | Nội dung |
 |---|---|
-| Expected timeline | Best-case duration |
-| Worst-case timeline | Realistic delay ceiling |
-| Circuit breaker | "If delayed by X weeks, we do Y" |
+| Thời hạn dự kiến | Thời gian trong kịch bản tốt nhất |
+| Thời hạn tệ nhất | Trần trễ hạn thực tế |
+| Điều kiện dừng | "Nếu trễ X tuần, chúng ta làm Y" |
 
-**Output:**
-Updated plan with explicit decision rules at each phase — when to wait vs. when to pivot.
-
----
-
-## 🟡 P2-2 — Build an AGI Contingency Pivot Plan
-
-**Risk:** The Autonomy Extinction Bet is acknowledged but not planned for. An unplanned existential risk is just a blind spot.
-
-**Action:**
-Define the signal that would trigger a pivot — e.g.:
-
-> *"If a major AI agent platform eliminates human-in-the-loop for document processing tasks, we will [pivot action] within [timeframe]."*
-
-**Output:**
-A 3-sentence contingency statement:
-1. **Signal:** *If [observable event]…*
-2. **Action:** *…we will [specific pivot]…*
-3. **Timeframe:** *…within [X weeks/months].*
+**Đầu ra:**
+Kế hoạch cập nhật với quy tắc quyết định rõ ràng ở mỗi giai đoạn — khi nào chờ, khi nào pivot.
 
 ---
 
-<!-- _class: section-title -->
+## 🟡 P2-2 — Xây Dựng Kế Hoạch Pivot Dự Phòng AGI
 
-## 🟢 P3 — Before Commercial Launch
-### Months 9–18
+**Rủi ro:** Rủi ro "Tuyệt Chủng Tự Trị" đã được nhận ra nhưng chưa được lên kế hoạch. Rủi ro hiện hữu chưa có kế hoạch chỉ là điểm mù.
 
----
+**Hành động:**
+Xác định tín hiệu sẽ kích hoạt một pivot — ví dụ:
 
-## 🟢 P3-1 — Define a Customer Acquisition Channel
+> *"Nếu một nền tảng AI agent lớn loại bỏ con người trong quy trình xử lý tài liệu, chúng tôi sẽ [hành động pivot] trong vòng [thời hạn]."*
 
-**Risk:** *"Squad reputation as network signal"* is not a channel. It is a hope with no mechanism.
-
-**Action:**
-Identify 1–2 specific channels to reach startups/SMEs who need content marketing — e.g.:
-- LinkedIn outreach sequences
-- Vietnam startup Slack/Facebook groups
-- Specific accelerator partnerships
-- Cold email sequences
-
-Define the channel **before Phase 5 begins**, not during it.
-
-**Output:**
-A named distribution channel with a testable outreach tactic.
-
----
-
-## 🟢 P3-2 — Run Customer Discovery for Commercial Segment
-
-**Risk:** Content marketing for startups/SMEs was deferred with **zero discovery** done on that segment. Government digitisation learnings do not transfer automatically.
-
-**Action:**
-Before Phase 5 launches, run **at least 5 customer discovery conversations** with startup founders or SME owners about their content marketing pain.
-
-Ask:
-- What is the actual pain?
-- What do they currently pay?
-- What would make them switch?
-
-**Output:**
-A brief summary of the 5 conversations.
+**Đầu ra:**
+Một tuyên bố dự phòng gồm 3 câu:
+1. **Tín hiệu:** *Nếu [sự kiện quan sát được]…*
+2. **Hành động:** *…chúng tôi sẽ [pivot cụ thể]…*
+3. **Thời hạn:** *…trong vòng [X tuần/tháng].*
 
 ---
 
 <!-- _class: section-title -->
 
-## 📋 Priority Summary
+## 🟢 P3 — Trước Khi Ra Mắt Thương Mại
+### Tháng 9–18
 
 ---
 
-## All Actions at a Glance
+## 🟢 P3-1 — Xác Định Kênh Thu Hút Khách Hàng
 
-| ID | Action | Priority | When |
+**Rủi ro:** *"Danh tiếng squad như tín hiệu mạng lưới"* không phải là một kênh. Đó là một hi vọng không có cơ chế.
+
+**Hành động:**
+Xác định 1–2 kênh cụ thể để tiếp cận startup/SME cần marketing nội dung — ví dụ:
+- Chuỗi tiếp cận LinkedIn
+- Nhóm Slack/Facebook của startup Việt Nam
+- Hợp tác với các accelerator cụ thể
+- Chuỗi email lạnh
+
+Xác định kênh **trước khi Giai đoạn 5 bắt đầu**, không phải trong khi đó.
+
+**Đầu ra:**
+Một kênh phân phối được đặt tên kèm một chiến thuật tiếp cận có thể kiểm tra được.
+
+---
+
+## 🟢 P3-2 — Thực Hiện Customer Discovery cho Phân Khúc Thương Mại
+
+**Rủi ro:** Marketing nội dung cho startup/SME đã bị hoãn mà **không có khám phá nào** được thực hiện với phân khúc đó. Kinh nghiệm số hóa chính phủ không tự động chuyển đổi được.
+
+**Hành động:**
+Trước khi Giai đoạn 5 ra mắt, thực hiện **ít nhất 5 cuộc trò chuyện customer discovery** với người sáng lập startup hoặc chủ SME về nỗi đau marketing nội dung của họ.
+
+Hỏi:
+- Nỗi đau thực sự là gì?
+- Họ hiện tại đang trả bao nhiêu?
+- Điều gì sẽ khiến họ chuyển sang?
+
+**Đầu ra:**
+Tóm tắt ngắn gọn về 5 cuộc trò chuyện.
+
+---
+
+<!-- _class: section-title -->
+
+## 📋 Tóm Tắt Ưu Tiên
+
+---
+
+## Tổng Quan Tất Cả Hành Động
+
+| Mã | Hành động | Ưu tiên | Thời điểm |
 |---|---|---|---|
-| P0-1 | Verify gov contact has budget authority | 🔴 P0 | Before everything |
-| P0-2 | Pick one document type only | 🔴 P0 | Before everything |
-| P1-1 | Define pricing | 🟠 P1 | Before Concierge MVP |
-| P1-2 | Build financial model / runway | 🟠 P1 | Before Concierge MVP |
-| P1-3 | Write squad recruitment profile | 🟠 P1 | Before Concierge MVP |
-| P1-4 | Create QA checklist / quality rubric | 🟠 P1 | Before Concierge MVP |
-| P1-5 | Define accuracy measurement method | 🟠 P1 | Before Concierge MVP |
-| P1-6 | Check AI disclosure legal requirements | 🟠 P1 | Before Concierge MVP |
-| P2-1 | Add contingency logic / timeline buffers | 🟡 P2 | Before anchor contract pitch |
-| P2-2 | Build AGI contingency pivot plan | 🟡 P2 | Before anchor contract pitch |
-| P3-1 | Define commercial customer acquisition channel | 🟢 P3 | Before Phase 5 |
-| P3-2 | Run 5 customer discovery calls (commercial) | 🟢 P3 | Before Phase 5 |
+| P0-1 | Xác minh đầu mối chính phủ có thẩm quyền ngân sách | 🔴 P0 | Trước tất cả |
+| P0-2 | Chọn chỉ một loại tài liệu | 🔴 P0 | Trước tất cả |
+| P1-1 | Xác định giá | 🟠 P1 | Trước Concierge MVP |
+| P1-2 | Xây dựng mô hình tài chính / thời gian duy trì | 🟠 P1 | Trước Concierge MVP |
+| P1-3 | Viết hồ sơ tuyển dụng squad | 🟠 P1 | Trước Concierge MVP |
+| P1-4 | Tạo danh sách QA / tiêu chí chất lượng | 🟠 P1 | Trước Concierge MVP |
+| P1-5 | Xác định phương pháp đo độ chính xác | 🟠 P1 | Trước Concierge MVP |
+| P1-6 | Kiểm tra yêu cầu pháp lý công khai AI | 🟠 P1 | Trước Concierge MVP |
+| P2-1 | Bổ sung logic dự phòng / vùng đệm thời gian | 🟡 P2 | Trước khi chào hàng hợp đồng neo |
+| P2-2 | Xây dựng kế hoạch pivot dự phòng AGI | 🟡 P2 | Trước khi chào hàng hợp đồng neo |
+| P3-1 | Xác định kênh thu hút khách hàng thương mại | 🟢 P3 | Trước Giai đoạn 5 |
+| P3-2 | Thực hiện 5 cuộc customer discovery (thương mại) | 🟢 P3 | Trước Giai đoạn 5 |
 
 ---
 
 <!-- _class: section-title -->
 
-## ⚡ Start Here
+## ⚡ Bắt Đầu Ngay
 
 ---
 
-## Your First Two Actions
+## Hai Hành Động Đầu Tiên Của Bạn
 
-Nothing else should start until these are answered.
+Không có gì nên bắt đầu cho đến khi hai câu hỏi này được trả lời.
 
-### This week — P0-1
+### Tuần này — P0-1
 
-**Ask your government contact:**
-> *"Do you have a budget line for outsourcing, or does this require a new approval? Who signs the contract?"*
-
----
-
-### This week — P0-2
-
-**Ask your government contact:**
-> *"Which document type — digitisation or translation — has the most urgent backlog right now?"*
+**Hỏi đầu mối chính phủ của bạn:**
+> *"Anh/chị có dòng ngân sách cho việc thuê ngoài không, hay điều này cần phê duyệt mới? Ai là người ký hợp đồng?"*
 
 ---
 
-Pick one. Start there. Everything else follows.
+### Tuần này — P0-2
+
+**Hỏi đầu mối chính phủ của bạn:**
+> *"Loại tài liệu nào — số hóa hay dịch thuật — có tồn đọng cấp bách nhất hiện tại?"*
+
+---
+
+Chọn một. Bắt đầu ở đó. Mọi thứ còn lại sẽ theo sau.
 
 ---
 
 <!-- _class: cover -->
 
-## Sources
+## Nguồn tài liệu
 
 - `_bmad-output/brainstorming/brainstorming-session-2026-03-26-162717.md`
 - `_bmad-output/action-items-adversarial-review.md`
 
-*Rendered with [Marp](https://marp.app)*
+*Hiển thị bằng [Marp](https://marp.app)*
